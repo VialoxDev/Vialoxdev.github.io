@@ -11,6 +11,7 @@ header{
 }
 a:link{
   text-decoration:none;
+  color:#ffff;
 }
 a:visited{
   text-decoration:none;
@@ -22,6 +23,7 @@ a:hover{
 }
 #about{
   margin-left:20px;
+  margin-right:10px;
 }
 footer{
   background-color:#608bdd;
@@ -36,4 +38,10 @@ footer{
 #content-card{
   border-radius:10px;
   border:solid #608bdd;
+}
+#about-txt{
+  padding:20px 0;
+  border-radius:10px;
+  border:solid #608bdd;
+  text-align:center;
 }
