@@ -22,10 +22,6 @@ a:hover{
   text-decoration:underline;
   color:#68e57c;
 }
-#about{
-  margin-left:20px;
-  margin-right:10px;
-}
 footer{
   background-color:#608bdd;
   border-radius:10px;
@@ -39,16 +35,4 @@ footer{
 #content-card{
   border-radius:10px;
   border:solid #608bdd;
-}
-#about-txt{
-  padding:20px 0;
-  border-radius:10px;
-  border:solid #608bdd;
-  text-align:center;
-  margin-bottom:10px;
-}
-#download-txt{
-  border-radius:10px;
-  border:solid #608bdd;
-  margin-bottom:10px;
 }
